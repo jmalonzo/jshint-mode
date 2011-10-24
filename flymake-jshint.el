@@ -1,6 +1,6 @@
 ;;; flymake-jshint.el --- JSHint mode for Emacs
 ;;
-;; Version: 20110901
+;; Version: 20111024
 ;;
 ;; adapted from http://www.emacswiki.org/emacs/FlymakeJavaScript
 ;;
